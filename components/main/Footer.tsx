@@ -5,7 +5,7 @@ const SocialNetworks = [
         className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-blue-700 text-white"
         style={{ fontSize: 18 }}
       >
-        <a href="https://www.facebook.com/nguyenquoc.du.37">
+        <a href="https://www.facebook.com/nguyenquoc.du.37" target="_blank">
           <i className="fa-brands fa-facebook-f"></i>
         </a>
       </div>
@@ -17,7 +17,7 @@ const SocialNetworks = [
         className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-gray-700 text-pink-100"
         style={{ fontSize: 18 }}
       >
-        <a href="https://github.com/quocduvp">
+        <a href="https://github.com/quocduvp" target="_blank">
           <i className="fa-brands fa-github"></i>
         </a>
       </div>
@@ -29,7 +29,7 @@ const SocialNetworks = [
         className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-blue-800 text-white"
         style={{ fontSize: 18 }}
       >
-        <a href="https://www.linkedin.com/in/d%E1%BB%B1-nguy%E1%BB%85n-a2b6a6165/">
+        <a href="https://www.linkedin.com/in/d%E1%BB%B1-nguy%E1%BB%85n-a2b6a6165/" target="_blank">
           <i className="fa-brands fa-linkedin-in"></i>
         </a>
       </div>
