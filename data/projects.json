@@ -1,0 +1,50 @@
+[
+    {
+        "company": "Appcore",
+        "projects": [
+            {
+                "name": "Flight Booking",
+                "website": "https://play.google.com/store/apps/details?id=com.flyairly.airlyapp",
+                "position": "Backend Developer",
+                "description": "<ul class='space-y-3'><li>Analyze product requirements with the team</li><li>Design database</li><li>Build modules manage users, booking flight, notification,  pub/sub message</li></ul>"
+            },
+            {
+                "name": "Online medical certificates",
+                "website": "https://sicky.com.au/",
+                "position": "Backend Developer",
+                "description": "<ul class='space-y-3'><li>Analyze product requirements with the team</li><li>Maintain system</li><li>Design database</li><li>Build modules video call, patient queue, notifications</li></ul>"
+            },
+            {
+                "name": "Virtual card",
+                "website": "https://karlet.io/",
+                "position": "Backend Developer",
+                "description": "<ul class='space-y-3'><li>Analyze product requirements with the team</li><li>Maintain system</li><li>Design database</li><li>Build APIs, export contact (.vcf), scan passbook using <a href='https://walletpasses.io/'>Wallet pass</a></li></ul>"
+            }
+        ]
+    },
+    {
+        "company": "EDoctor",
+        "projects": [
+            {
+                "name": "EDoctor",
+                "position": "Backend Developer",
+                "description": "<ul class='space-y-3'><li>Maintain new and exist features</li></ul>"
+            },
+            {
+                "name": "EDoctor - Realtime Chat",
+                "position": "Backend Developer",
+                "description": "<ul class='space-y-3'><li>Build module manage sessions, messages</li></ul>"
+            },
+            {
+                "name": "EDoctor - Insurance Service",
+                "position": "Backend Developer",
+                "description": "<ul class='space-y-3'><li>Maintain new and exist system</li><li>Design apis documentation</li><li>Build APIs, notification</li></ul>"
+            },
+            {
+                "name": "EDoctor - SPO2",
+                "position": "Backend Developer",
+                "description": "<ul class='space-y-3'><li>Design apis documentation</li><li>Build api get data from device SPO2</li></ul>"
+            }
+        ]
+    }
+]

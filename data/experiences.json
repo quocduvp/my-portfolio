@@ -1,0 +1,16 @@
+[
+    {
+        "companyName": "AppCore",
+        "position": "Backend Developer",
+        "startDate": "8/2018",
+        "endDate": "12/2020",
+        "description": "<ul class='space-y-3'><li>Trainning intern nodejs</li><li>Analyze product requirements with the team</li><li>Maintain new and old system</li><li>Design database schema, ERD</li><li>Restful Api, Graphql, Realtime websocket, WebRTC, Serverless lambda functions, Queue/Job</li><li>Notification Firebase FCM, Payment gateway Stripe API, Mail services (sendgrid, mailchimp, SES), SMS services (twilio, SNS)</li><li>Mysql, DynamoDB, MongoDB, Redis</li></ul>"
+    },
+    {
+        "companyName": "EDoctor",
+        "position": "Backend Developer",
+        "startDate": "11/2018",
+        "endDate": "PRESENT",
+        "description": "<ul class='space-y-3'><li><p>Design Models & APIs documentation</p></li><li><p>Maintain systems</p></li><li><p>Microservice architecture</p></li><li><p>Module chat</p></li><li><p>Module&nbsp;insurance service</p></li><li><p>Module connect SPO2</p></li></ul>"
+    }
+]
