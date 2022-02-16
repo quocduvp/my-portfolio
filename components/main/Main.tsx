@@ -1,7 +1,7 @@
 import Abouts from './Abouts'
 import Content from './Content'
 import Experiences from './Experiences'
-import Menu from './Menu'
+import Menu from '../header/Menu'
 import Project from './Projects'
 
 
