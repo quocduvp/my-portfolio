@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Programming Language",
+        "values": [
+            "Python",
+            "C#",
+            "Java",
+            "JavaScript",
+            "TypeScript"
+        ]
+    },
+    {
+        "name": "Backend Technical",
+        "values": [
+            "Node.js",
+            "Django Rest Framework",
+            "GraphQL",
+            "AWS Lambda Serverless"
+        ]
+    },
+    {
+        "name": "Frontend Technical",
+        "values": [
+            "ReactJS",
+            "HTML5/CSS3",
+            "TailwindCSS",
+            "Web component"
+        ]
+    },
+    {
+        "name": "Database",
+        "values": [
+            "MySQL",
+            "MongoDB",
+            "Redis"
+        ]
+    },
+    {
+        "name": "Other",
+        "values": [
+            "AWS S3",
+            "Cognito",
+            "Serverless",
+            "Firebase FCM",
+            "Firebase Dynamic Link",
+            "Firestore"
+        ]
+    }
+]

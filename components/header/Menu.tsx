@@ -8,6 +8,10 @@ const Menus = [
     id: 'Abouts',
   },
   {
+    label: 'Skils',
+    id: 'Skills',
+  },
+  {
     label: 'Experiences',
     id: 'Experiences',
   },
