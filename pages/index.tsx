@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="flex flex-col w-full">
       <Head>
-        <title>Create Next App</title>
+        <title>Nguyễn Đổ Quốc Dự</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
