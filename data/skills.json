@@ -38,6 +38,9 @@
     {
         "name": "Other",
         "values": [
+            "Microservices",
+            "NATs",
+            "Kafka",
             "AWS S3",
             "Cognito",
             "Serverless",

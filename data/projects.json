@@ -1,5 +1,16 @@
 [
     {
+        "company": "Research & Mini project",
+        "projects": [
+            {
+                "name": "Todo App (Microservice Infrastructure)",
+                "website": "https://github.com/quocduvp/todo-microservice",
+                "position": "Developer & Researcher",
+                "description": "<div><i class='font-bold'>Technical stacks:</i><ul class='space-y-3'><li><a href='https://nats.io/'>NATs broker</a></li><li>Docker + Docker compose</li><li>User service using Python</li><li>Todo service using NodeJs</li><li>MongoDb</li><li>API gateway using Framework FastifyJs</li></ul></div>"
+            }
+        ]
+    },
+    {
         "company": "Appcore",
         "projects": [
             {
